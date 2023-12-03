@@ -271,3 +271,9 @@ app.post("/incomplete", async (req, res) => {
   return res.status(200).json({ message: `Handled the incomplete payment ${paymentId}` });
 });
 ```
+
+## validation-key.txt
+17449e760942ad00a15ea8828e0ced513512cc14919cf1afde4c5b08b408d5981a0b4a87ad5375dbfce6d2948149ed13b471ccac5df3b38e0e63b4bc0edc22ec
+
+});
+```
